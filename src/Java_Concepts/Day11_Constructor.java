@@ -15,11 +15,12 @@ public class Day11_Constructor {
 	//7) using Constructor we can store data to the variables
 	//8) Initializing the data into the variables no return value
 	
-	
+	//Declaring constructor variables
 	Day11_Constructor( int id, String name, char g){
 		sid=id;
 		sname=name;
 		grade=g;
+		
 	}
 	
 	void setStudentData(int id, String name, char gr) {

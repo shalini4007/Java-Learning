@@ -10,6 +10,12 @@ public class Day11_OOPS_Methods_Main_Class {
 		
 		String s=M.M2();//2) No Parameters-->>  return value
 		System.out.println(s);
+		
+		M.M3("John");
+		
+		
+		String value=M.M4("Test");
+		System.out.println(value);
 	}
 	
 		

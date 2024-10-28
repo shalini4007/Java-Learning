@@ -5,7 +5,7 @@ public class Day9_String_Programs {
 	public static void main(String[] args) {
 		
 		////Example Reverse a String////
-		///Approach1- Using charAt() and length() menthods
+		///Approach1- Using charAt() and length() methods
 		String s="Selenium";
 		String rev= "";
 		for(int i=s.length()-1; i>=0; i--)

@@ -22,3 +22,9 @@
 //public void static main(String[] args)-->> return type should be before method- invalid syntax
 //void main (String[] args) public static-> invalid
 //public static void main(int a[])--> valid but it's normal method
+
+
+//static and final variables
+//static variables/methods can be changed when multiple objects are created and class level
+//final variables/methods cannot be changed
+//static classes are not available

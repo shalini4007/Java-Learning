@@ -8,7 +8,7 @@ public class Day5_for_Looping_Statements {
 		//syntax for(initialization; condition; increment/decrement){statements;}
 		//In while and do while decrement/increment is part of loop body but in for loop it's in declaration instead of body
 		//If number of iterations are aware in advance- we will go with for loop
-		//if you want to execute the statement atleast once even if the condition is not satisfied- do while loop is suitable
+		//if you want to execute the statement at least once even if the condition is not satisfied- do while loop is suitable
 		//if not aware of the number of iterations and loop termination is based on conditions- while loop is suitable
 		//Traveling by Bike--> source, destination and fuel- prefer for loop
 		//Traveling by bus--> do while -- without any conditions

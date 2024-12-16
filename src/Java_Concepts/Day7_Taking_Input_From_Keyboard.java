@@ -10,7 +10,7 @@ public class Day7_Taking_Input_From_Keyboard {
 		Scanner sc= new Scanner(System.in);
 		
 		
-		  System.out.println("Enter the numbner from keyboard"); 
+		  System.out.println("Enter the number from keyboard"); 
 		  int num= sc.nextInt();
 		  System.out.println("This the number entered from keyboard " + num);
 		 

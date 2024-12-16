@@ -125,7 +125,7 @@ public class Day4_Control_Statements_Conditional {
 		int weekNum=2;
 		switch(weekNum)
 		{
-		case 1: System.out.println("Sunday");// if break is not added the below statement is also executed 
+		case 1: System.out.println("Sunday");// if break is not added the below statements are also executed 
 		case 2: System.out.println("Monday");break;//once the condition is satisfied it breaks the block and come out of the block
 		case 3: System.out.println("Tuesday");break;
 		case 4: System.out.println("Wednesday");break;

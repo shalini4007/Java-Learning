@@ -13,7 +13,7 @@ package Java_Concepts;
 // extends keywords can invoke only one class
 //multiple-Ambiguity causes if tried extending
 
-class A
+class A1
 {
 	int a=100;
 	void display()
@@ -22,7 +22,7 @@ class A
 	}
 }
 
-class B extends A
+class B1 extends A1
 {
 	int b=200;
 	void show()
@@ -37,7 +37,7 @@ class B extends A
 public class Day14_Inheritance_MultipleInheritanceNotSupported// only main class can have public access modifiers 
 {
 	public static void main(String[] args) {
-		B obj= new B();
+		B1 obj= new B1();
 		System.out.println(obj.a);
 		System.out.println(obj.b);
 		obj.display();

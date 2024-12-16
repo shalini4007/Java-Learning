@@ -1,0 +1,5 @@
+//Collection is to represent group of elements/objects/data into single entity which is available in java.util package
+//Collections--> List and Set
+//List-->ArrayList and Set--> Hashset
+//Map--> hashMap
+//designed to store objects not primitive data types

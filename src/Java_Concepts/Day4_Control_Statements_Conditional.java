@@ -1,10 +1,11 @@
-package Java_Concepts;
+package java_Concepts;
 
+//Control statements determines whieter the next steps needes to be executed or not
 public class Day4_Control_Statements_Conditional {
 
 	public static void main(String[] args) {
 		//Choose statements based on conditions in the pile of statements
-		//set of statements to rum multiple times
+		//set of statements to run multiple times
 		// three kinds of control statements
 		//Types of control statements 
 		//-->conditional statements --> looping statements--> jumping statements
@@ -12,7 +13,7 @@ public class Day4_Control_Statements_Conditional {
 		//conditional statements-->if --> if else--> nested if else-->>switch
 		//if(condition){statements;}--> syntax
 		
-		//Person is eleigible for vote or not////
+		//Person is eligible for vote or not////
 		int personAge=25;
 		if(personAge>=18)
 		{

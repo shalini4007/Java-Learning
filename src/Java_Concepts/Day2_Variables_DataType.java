@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 public class Day2_Variables_DataType {
 
@@ -12,7 +12,7 @@ public class Day2_Variables_DataType {
 	
 	//values of variables can be updated
 	double y=20.222;
-	System.out.println(a);
+	System.out.println(y);
 	
 	int d,b,c;// if all variables belongs to same data type
 	d=1;

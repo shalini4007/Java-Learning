@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 //final- can apply for variables/class/methods
 

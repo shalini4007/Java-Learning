@@ -1,5 +1,7 @@
-package Java_Concepts;
+package java_Concepts;
 
+
+//Class is a blueprint for creating an object OR set of object which shares common characteristics or properties
 public class Day1_FirstJavaProgram {
 
 	static int i=9;

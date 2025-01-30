@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 public class Day5_do_while_Looping_Statements {
 

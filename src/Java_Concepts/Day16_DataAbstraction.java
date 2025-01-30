@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 //Abstraction is a process of hiding the implementation and showing functionality to the user
 //Abstract class

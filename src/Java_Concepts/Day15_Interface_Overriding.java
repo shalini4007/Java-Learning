@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 //Method Overriding- Is possible only with Inheritance
 // It should have two classes -one parent and one child class
 // All the methods or variables present in parent class can be overridden 

@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 //try-->Opening the connection/file
 //catch--> handle exception
 //finally--> closing

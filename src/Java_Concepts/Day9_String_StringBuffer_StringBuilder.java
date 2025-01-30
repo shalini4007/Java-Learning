@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 public class Day9_String_StringBuffer_StringBuilder {
 

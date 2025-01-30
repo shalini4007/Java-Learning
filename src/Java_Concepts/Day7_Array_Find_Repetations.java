@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 public class Day7_Array_Find_Repetations {
 

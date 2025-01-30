@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 public class Day5_while_Looping_Statements {
 //Also called Iterative statements

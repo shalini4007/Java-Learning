@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 //Access modifiers- defines scope of variables and methods
 //Public- variables and methods declared as public can be accessed every where within the project.

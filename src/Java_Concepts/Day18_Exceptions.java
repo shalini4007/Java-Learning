@@ -1,8 +1,8 @@
-package Java_Concepts;
+package java_Concepts;
 
 import java.util.Scanner;
 
-//Exception is an event which will cause program execution
+//Exception is an event which will pause program execution
 //Errors-->Syntax and logical-
 //Exception Types
 //Checked exceptions- identified by java compiler Ex->Interrupted/File Not Found/IO Exception etc..

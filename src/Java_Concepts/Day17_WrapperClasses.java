@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 //Wrapper classes provide a way to use primitive data types (int, boolean, etc..) as objects.
 //Data types-Wrapper classes

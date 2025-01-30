@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 public class Day16_InterfaceOverriding  implements Day16_Interface_I1, Day16_Interface_I2{
 

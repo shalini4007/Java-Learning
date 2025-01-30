@@ -1,25 +1,27 @@
-package Java_Practice_Programs;
+package java_Practice_Programs;
 
-public class Print_Prime_Number {
-
-	public static void main(String[] args) {
-	int n=97;
+public class Print_Prime_Number
+{
+	
+	public static void main(String args[] )
+	{
+		int num=12;
 		int count=0;
-		for(int i=1;i<=n;i++)
+		for (int i=1; i<=num; i++)
 		{
-			
-		if(n%i==0)
+			if(num%i==0)
+			{
+				count++;
+			}
+		}
+		if(count==2)
 		{
-		count=count+1;
+			System.out.println("It's a prime number");
+		}
+		else
+		{
+			System.out.println("It's not a prime number");
+		}
 		
-		}
-		}
-		if(count==2) {
-			System.out.println("It is prime number");
-		}
-		else {
-			System.out.println("Not a Prime number");
-		}
 	}
-
 }

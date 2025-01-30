@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 //Type casting-converting type of data
 //types

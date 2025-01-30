@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 		//static keyword can be applied for variables and methods
 		//Employee main class- emp1/emp2/emp3 are different objects of class employee

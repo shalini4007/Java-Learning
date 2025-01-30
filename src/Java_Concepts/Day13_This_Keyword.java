@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 //int b;--> global variables but java does not allow it
 

@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 //Using try catch-statement level and throws Exception-method level
 //

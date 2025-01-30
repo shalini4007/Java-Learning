@@ -1,4 +1,4 @@
-package Java_Practice_Programs;
+package java_Practice_Programs;
 
 public class Print_Even_Numbers {
 

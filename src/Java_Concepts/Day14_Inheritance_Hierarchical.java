@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 //Inheritance-Acquiring variable/properties and behavior/methods from one class to another class
 //Re-usability/avoid duplicates/

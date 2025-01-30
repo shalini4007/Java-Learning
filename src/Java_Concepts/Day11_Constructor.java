@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 public class Day11_Constructor {
 	
@@ -30,7 +30,7 @@ public class Day11_Constructor {
 	}
 	
 	void printStudentData() {
-		System.out.println(sid +" " + "sname" + " " + grade);
+		System.out.println(sid +" " + sname + " " + grade);
 	}
 	
 

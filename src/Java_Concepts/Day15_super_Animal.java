@@ -1,4 +1,4 @@
-package Java_Concepts;
+package java_Concepts;
 
 //super keyword is used to get the value of variable/method of parent class when created object of child class
 //super keyword is used to invoke the immediate parent class variable

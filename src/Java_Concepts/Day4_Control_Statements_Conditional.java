@@ -1,6 +1,6 @@
 package java_Concepts;
 
-//Control statements determines whieter the next steps needes to be executed or not
+//Control statements determines whether the next steps needs to be executed or not
 public class Day4_Control_Statements_Conditional {
 
 	public static void main(String[] args) {

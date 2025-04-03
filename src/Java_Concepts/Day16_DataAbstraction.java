@@ -13,7 +13,7 @@ package java_Concepts;
 //-->7) We can define interface with interface keyword
 //-->8) A class extends another class, an interface extends another interface, but a class implements an interface
 //-->9) We can create object reference for interface but we cannot instantiate interface
-//-->10) We cannot create og object of an Interface but we can create object of class which implements an interface
+//-->10) We cannot create object of an Interface but we can create object of class which implements an interface
 //-->11) Example-Design of an software having only abstract methods
 
 interface shape

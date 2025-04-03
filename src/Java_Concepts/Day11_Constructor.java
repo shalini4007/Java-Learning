@@ -9,7 +9,7 @@ public class Day11_Constructor {
 	//1) Constructor name should be same as class name
 	//2) It will not return any value not even void
 	//3) no need to specify void
-	//4) Constructor cane take parameters or arguements 
+	//4) Constructor can take parameters or arguments 
 	//5) Automatically invoked during object creation
 	//6) The purpose of a constructor is to construct an object and assign values to the object's members
 	//7) using Constructor we can store data to the variables

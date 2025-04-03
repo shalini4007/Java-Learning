@@ -8,7 +8,7 @@ public class Print_Odd_Numbers {
 		
 		for( i=0;i<=100;i++)
 		{
-			if(i%2==0) {
+			if(i%2!=0) {
 			System.out.println(i);
 		}
 
